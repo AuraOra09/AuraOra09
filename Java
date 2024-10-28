@@ -1,4 +1,9 @@
 import java.util.Scanner
 
- puplic class Main
-  puplic class coid main
+ puplic class Main{
+  puplic class coid main{
+
+   System.out.println("hi")
+
+  }
+ }
